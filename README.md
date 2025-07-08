@@ -1,2 +1,2 @@
 # This is a demonstration
-some description
+some description and details
